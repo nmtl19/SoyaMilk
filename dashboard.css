@@ -1,0 +1,74 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+.background {
+  background-color: #f4eea9;
+  /* background-color: rgba(244, 238, 169, 0.2) */
+  height: 600px;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.pad {
+  padding-left: 150px;
+}
+
+.batas {
+  padding: 0 100px 100px 0;
+}
+nav,
+nav a {
+  text-transform: uppercase;
+  color: white;
+  font-size: 16px;
+}
+
+nav a.active {
+  color: #475cfd;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: #475cfd;
+}
+
+nav h5 {
+  font-weight: bold;
+}
+
+.main {
+  color: white;
+}
+
+.main h1 {
+  font-weight: 100;
+}
+
+.main h1 span {
+  font-weight: 600;
+  color: #475cfd;
+}
+
+.main p {
+  font-size: 20px;
+  font-weight: 100;
+  margin-top: 20px;
+}
+
+.main button {
+  background-color: #ff4887;
+  color: white;
+  margin-top: 20px;
+}
+
+.isi {
+  margin-top: 150px;
+}
+
+.gambar {
+  margin-top: 100px;
+  padding-left: 80px;
+}
