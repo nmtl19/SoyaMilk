@@ -9,6 +9,12 @@ input {
   border: none;
 }
 
+.background {
+  background-color: #f4eea9;
+  /* background-color: rgba(244, 238, 169, 0.2) */
+  height: 600px;
+}
+
 button:focus {
   outline: none;
 }
@@ -188,6 +194,13 @@ button:focus {
   z-index: 1;
 }
 
+.login {
+  position: absolute;
+  width: 693px;
+  height: 557px;
+  left: 847px;
+  top: 329px;
+}
 .bold-line {
   background: #e7e7e7;
   position: absolute;
